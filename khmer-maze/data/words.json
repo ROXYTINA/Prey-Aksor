@@ -1,0 +1,15 @@
+{
+  "words": [
+    { "id": "word_tiger", "text": "ខ្លា", "tiles": ["ខ្លា"], "romanization": "khla", "meaning_en": "tiger", "difficulty": 3, "tags": ["animals", "subscript"] },
+    { "id": "word_elephant", "text": "ដំរី", "tiles": ["ដំ", "រី"], "romanization": "domrei", "meaning_en": "elephant", "difficulty": 2, "tags": ["animals"] },
+    { "id": "word_flower", "text": "ផ្កា", "tiles": ["ផ្កា"], "romanization": "phka", "meaning_en": "flower", "difficulty": 3, "tags": ["nature", "subscript"] },
+    { "id": "word_water", "text": "ទឹក", "tiles": ["ទឹ", "ក"], "romanization": "tuk", "meaning_en": "water", "difficulty": 2, "tags": ["nature"] },
+    { "id": "word_girl", "text": "ស្រី", "tiles": ["ស្រី"], "romanization": "srei", "meaning_en": "girl / woman", "difficulty": 3, "tags": ["people", "subscript"] },
+    { "id": "word_forest", "text": "ព្រៃ", "tiles": ["ព្រៃ"], "romanization": "prey", "meaning_en": "forest", "difficulty": 3, "tags": ["nature", "subscript"] },
+    { "id": "word_road", "text": "ផ្លូវ", "tiles": ["ផ្លូ", "វ"], "romanization": "phlov", "meaning_en": "road / path", "difficulty": 4, "tags": ["places", "subscript"] },
+    { "id": "word_krama", "text": "ក្រមា", "tiles": ["ក្រ", "មា"], "romanization": "krama", "meaning_en": "krama (scarf)", "difficulty": 3, "tags": ["culture", "subscript"] },
+    { "id": "word_word", "text": "ពាក្យ", "tiles": ["ពា", "ក្យ"], "romanization": "peak", "meaning_en": "word", "difficulty": 4, "tags": ["language", "subscript"] },
+    { "id": "word_letter", "text": "អក្សរ", "tiles": ["អ", "ក្ស", "រ"], "romanization": "aksor", "meaning_en": "letter / script", "difficulty": 4, "tags": ["language", "subscript"] },
+    { "id": "mixed_numerals", "text": "ខ្ញុំមាន ៣ ផ្កា", "tiles": ["ខ្ញុំ", "មាន", " ", "៣", " ", "ផ្កា"], "romanization": "khnhom mean 3 phka", "meaning_en": "I have 3 flowers (mixed text and numerals)", "difficulty": 5, "tags": ["test"] }
+  ]
+}

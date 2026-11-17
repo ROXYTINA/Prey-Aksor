@@ -1,0 +1,20 @@
+
+# IntelliJ
+.idea/
+*.iml
+
+# Godot cache and local files
+.godot/
+android/
+*.translation
+
+# Builds and secrets (never commit these)
+*.apk
+*.aab
+*.keystore
+export_presets.cfg
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
